@@ -23,7 +23,9 @@
 - Roadmap на 3 выпуска с приоритизацией функций
 
 **Репозиторий:** [fun_plan](https://github.com/MikhailovaOlga/fun_plan)
+
 **Документ о концепции и границах проекта:** [FUNPlan.pdf](https://github.com/MikhailovaOlga/fun_plan/blob/main/FUNПлан.pdf)
+
 **Статус:** Концепция и спецификация v1.0
 
 ***
@@ -39,5 +41,7 @@
 - Интеграция с сервисами банка и партнерами
 
 **Репозиторий:** [smart_bank_scheduler](https://github.com/MikhailovaOlga/smart_bank_scheduler)
+
 **Документ о концепции и границах проекта:** [Планировщик.pdf](https://github.com/MikhailovaOlga/smart_bank_scheduler/blob/main/Планировщик.pdf)
+
 **Статус:** Концепция, спецификация, roadmap на 3 выпуска
