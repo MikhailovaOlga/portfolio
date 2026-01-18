@@ -6,7 +6,7 @@
 
 **Telegram:** @MikhailovaOlgaMih
 **Email:** mikhailova-tnp@yandex.ru
-**Резюме HH:** [`https://…`](https://)
+**Резюме HH:** [`https://hh.ru/resume/…`](https://hh.ru/resume/8c314dbcff0fb5d7690039ed1f6a397a7a5446)
 
 ## Ключевые проекты
 
@@ -20,8 +20,8 @@
 - Удержание пользователей > 15% на 28-й день
 - Roadmap на 3 выпуска с приоритизацией функций
 
-**Репозиторий:** [github.com/goodwintt23-cpu/funplan](https://github.com/MikhailovaOlga/...)
-**Документ о концепции и границах проекта:** [FUNPlan.pdf](FUNPlan.pdf)
+**Репозиторий:** [fun_plan](https://github.com/MikhailovaOlga/fun_plan)
+**Документ о концепции и границах проекта:** [FUNPlan.pdf](https://github.com/MikhailovaOlga/fun_plan/blob/main/FUNПлан.pdf)
 **Статус:** Концепция и спецификация v1.0
 
 ***
@@ -36,6 +36,6 @@
 - 30% активных пользователей банка используют планировщик
 - Интеграция с сервисами банка и партнерами
 
-**Репозиторий:** [github.com/goodwintt23-cpu/tbank-planner](https://github.com/MikhailovaOlga/...)
-**Документ о концепции и границах проекта:** [planirovshchik.docx](planirovshchik.docx)
+**Репозиторий:** [smart_bank_scheduler](https://github.com/MikhailovaOlga/smart_bank_scheduler)
+**Документ о концепции и границах проекта:** [Планировщик.pdf](https://github.com/MikhailovaOlga/smart_bank_scheduler/blob/main/Планировщик.pdf)
 **Статус:** Концепция, спецификация, roadmap на 3 выпуска
